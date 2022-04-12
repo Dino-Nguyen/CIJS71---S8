@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+.App{
+    font-weight: bolder;
+    font-size: 30px; 
+    scroll-behavior: smooth;
+}
+input {
+    height: 50px;
+    width: 400px;
+}
+.topBtn {
+    display: flex;
+    position: fixed;
+    bottom:20px ;
+    right: 20px;
+    cursor: pointer;
+}
+.topBtn:hover{
+    background-color: bisque;
+}
